@@ -10,11 +10,11 @@ This is a full-stack Product Analytics case study designed to optimize the check
 
 
 ## 🛠️ Tech Stack
--**SQL (Google BigQuery):** Advanced data extraction, Window Functions for sessionization, and regex parsing.
--**Python (Polars):** High-performance data cleaning and feature engineering (Retention metrics).
--**Data Visualization (Plotly):** Exploratory analysis including heatmaps and retention histograms.
--**Product Analytics (Amplitude):** Funnel analysis, segmentation, and user retention cohorts.
--**BI Dashboard (Looker Studio):** Automated reporting for "Traffic," "Conversion Rate," and "Revenue."
+- **SQL (Google BigQuery):** Advanced data extraction, Window Functions for sessionization, and regex parsing.
+- **Python (Polars):** High-performance data cleaning and feature engineering (Retention metrics).
+- **Data Visualization (Plotly):** Exploratory analysis including heatmaps and retention histograms.
+- **Product Analytics (Amplitude):** Funnel analysis, segmentation, and user retention cohorts.
+- **BI Dashboard (Looker Studio):** Automated reporting for "Traffic," "Conversion Rate," and "Revenue."
 
 ## 🚀 Key Features & Workflow
 ### Phase 1: Advanced SQL Extraction
